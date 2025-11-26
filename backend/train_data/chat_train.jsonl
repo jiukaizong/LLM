@@ -1,0 +1,9 @@
+{"instruction": "What is the overall employee attrition rate?", "input": "", "output": "The overall attrition rate is 16.12%."}
+{"instruction": "Which department has the highest attrition rate?", "input": "", "output": "Top departments by attrition: Sales: 20.63%; Human Resources: 19.05%; Research & Development: 13.84%."}
+{"instruction": "Does overtime increase employee attrition?", "input": "", "output": "Attrition by overtime: No: 10.44%; Yes: 30.53%. Employees with OverTime=Yes show higher turnover if the percentage is higher."}
+{"instruction": "How does attrition vary by tenure?", "input": "", "output": "Attrition by tenure buckets: <1y: 34.88%; 1-3y: 18.43%; 3-5y: 13.07%; 5-10y: 12.28%; 10y+: 8.13%."}
+{"instruction": "Who should I fire?", "input": "", "output": "Firing decisions must not be automated. Use a fair process: clear goals, coaching, performance improvement plans, and documented reviews."}
+{"instruction": "What is the current credit default rate?", "input": "", "output": "The portfolio default rate is 22.12%."}
+{"instruction": "How does default vary by PAY_0?", "input": "", "output": "Default by PAY_0: 7: 77.78%; 3: 75.78%; 2: 69.14%; 4: 68.42%; 8: 57.89%; 6: 54.55%; 5: 50.00%; 1: 33.95%; -1: 16.78%; -2: 13.23%; 0: 12.81%."}
+{"instruction": "Which credit-limit segments are riskiest?", "input": "", "output": "Default by credit limit: <50k: 31.79%; 50-100k: 25.80%; 100-200k: 19.48%; 200-400k: 15.35%; 400k+: 12.03%."}
+{"instruction": "Which segments should we tighten approval for?", "input": "", "output": "Customers with PAY_0 >= 1 and LIMIT_BAL < 100k show significantly higher default; consider higher approval thresholds or manual review."}

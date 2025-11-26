@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# 日志 & 临时文件
+*.log
+*.tmp
+*.swp
+
+# IDE / 编辑器配置
+.vscode/
+.idea/
+*.iml
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# ------ 模型相关大文件（重点） ------
+# 训练输出目录（你这次报错的就在这里）
+backend/out-qwen25-3b-lora/
+
+# 各种大模型权重文件
+*.pt
+*.safetensors
+*.bin
