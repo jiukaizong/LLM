@@ -1,6 +1,8 @@
-# The model files are too large to be included in the GitHub repository, If you need to download the complete model files, please visit the following link: https://drive.google.com/drive/folders/1oNXUASF-3Jg4JHvnXDT57VvK-MIIeGbx?usp=sharing
+# Readme before you download
 
-# then follow the Readme.md steps to run the project
+The model files are too large to be included in the GitHub repository, If you need to download the complete model files, please visit the following link: https://drive.google.com/drive/folders/1oNXUASF-3Jg4JHvnXDT57VvK-MIIeGbx?usp=sharing
+
+then follow the Readme.md steps to run the project
 
 # How to Run the Project
 
